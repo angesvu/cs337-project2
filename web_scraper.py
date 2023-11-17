@@ -22,3 +22,8 @@ for step in directions:
     steps.append(step.get_text().strip(' \n\r\t'))
 print(steps)
 
+ing_name = []
+ing_quantity = []
+ing_measurement = []
+tools = []
+cook_methods = []
